@@ -1,2 +1,1 @@
-# -Radio-Frequency-Identification-Door-Lock-System-Arduino
-An Arduino-based RFID (  Radio-Frequency Identification) door lock system using an RC522 module, LCD display, and solenoid latch. Provides secure card-based access control with real-time feedback and microcontroller logic.
+<img width="612" height="786" alt="image" src="https://github.com/user-attachments/assets/69cf4ac9-cc0a-4dca-aeab-eaf50416c76b" />
